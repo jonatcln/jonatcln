@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><q>Learning never exhausts the mind.</q><br>&mdash;&nbsp;Leonardo da Vinci</p>
-
 <br>
 
 <h3 align="center">Languages and tools</h3>
